@@ -24,4 +24,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+composer.phar
 /vendor/
